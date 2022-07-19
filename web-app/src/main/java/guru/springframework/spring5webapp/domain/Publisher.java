@@ -1,7 +1,6 @@
 package guru.springframework.spring5webapp.domain;
 
 
-import lombok.Generated;
 import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
